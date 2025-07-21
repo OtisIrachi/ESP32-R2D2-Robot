@@ -28,3 +28,14 @@ Modified 28BYJ-48 Stepper from Unipolar to Bipolar.
 See stepper motor wiring order on schematic.
 
 
+# Using your own IR Remote
+
+Use this setup to read and map your own IR Remote codes.
+Works with OLED or Serial Port Monitor.
+When you have mapped out your buttons, insert the new codes into the "IRCodes.h" file,
+following the format i have used.  "remoteButtonName[num_of_buttons]"  is used to keep
+the buttons organized.
+
+
+
+![wemos d1 ir receiver schematic](https://github.com/user-attachments/assets/66409011-28f6-45c9-bca4-8a3dee2ab91b)
