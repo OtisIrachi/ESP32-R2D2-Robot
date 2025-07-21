@@ -14,3 +14,4 @@ Stepper Motor and a TMC2209 Stepper Motor Driver Stepstick.
 A 7.4V 1300mA LiPo battery is used for power.
 
 YouTube Video:  https://www.youtube.com/shorts/CUwUT40_uZA
+![Schematic](https://github.com/user-attachments/assets/fd4bfcd2-6cf6-4391-813d-6d3d06b5656b)
