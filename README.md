@@ -37,5 +37,5 @@ following the format i have used.  "remoteButtonName[num_of_buttons]"  is used t
 the buttons organized.
 
 
+![wemos d1 ir receiver schematic](https://github.com/user-attachments/assets/25665d95-e1cf-40cf-94db-9320b0f8b185)
 
-![wemos d1 ir receiver schematic](https://github.com/user-attachments/assets/66409011-28f6-45c9-bca4-8a3dee2ab91b)
