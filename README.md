@@ -4,10 +4,11 @@ ESP32 R2D2 Robot
 This 3D printed robot contains two Microcontrollers,
 one ESP32 D1 Mini and one ESP8266.   It can be controlled with
 an iPhone and WiFi, or with a cheap NEC style IR remote.
+Of course, you may use your own motherboard/ESP32 combination.
 
-Both Leg Motors are driven by N20 mini gear motors with an L298N Dual
+Both Leg Motors are driven by N20 mini gear motors (Amazon) with an L298N Dual
 Motor Driver Module (Amazon) and the Dome rotates using a 28BYJ-48 Geared 
-Stepper Motor and a TMC2209 Stepper Motor Driver Stepstick.
+Stepper Motor (Amazon) and a TMC2209 Stepper Motor Driver Stepstick (Amazon).
 
 # WiFi iPhone screen example:
 
