@@ -15,7 +15,8 @@ A 7.4V 1300mA LiPo battery is used for power.
 
 YouTube Video:  https://www.youtube.com/shorts/CUwUT40_uZA
 
-![schematic](https://github.com/user-attachments/assets/d47604d0-bdd6-405c-b3ba-833ef7f3968a)
+![schematic](https://github.com/user-attachments/assets/d01ee7aa-0c09-4023-ab8c-ede40e2cf35f)
+
 
 
 Modified 28BYJ-48 Stepper from Unipolar to Bipolar.
