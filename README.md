@@ -21,20 +21,22 @@ A 7.4V 1300mA LiPo battery is used for power.
 # *******************************************************************
 YouTube Video:  https://www.youtube.com/shorts/CUwUT40_uZA
 
+# *******************************************************************
+# Robot Schematic:
+
 ![schematic](https://github.com/user-attachments/assets/d01ee7aa-0c09-4023-ab8c-ede40e2cf35f)
 
 
 # *******************************************************************
-Modified 28BYJ-48 Stepper from Unipolar to Bipolar.
+# Modified 28BYJ-48 Stepper from Unipolar to Bipolar:
 
 ![28bjy-48 cut](https://github.com/user-attachments/assets/99e91354-46ef-4642-9acc-ec05613d5742)
-
 
 
 See stepper motor wiring order on schematic.
 
 # *******************************************************************
-# Using your own IR Remote
+# Using your own IR Remote:
 
 Use this setup to read and map your own IR Remote codes.
 Works with OLED or Serial Port Monitor.
