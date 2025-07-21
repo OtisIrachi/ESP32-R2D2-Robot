@@ -14,4 +14,15 @@ Stepper Motor and a TMC2209 Stepper Motor Driver Stepstick.
 A 7.4V 1300mA LiPo battery is used for power.
 
 YouTube Video:  https://www.youtube.com/shorts/CUwUT40_uZA
-![Schematic](https://github.com/user-attachments/assets/fd4bfcd2-6cf6-4391-813d-6d3d06b5656b)
+
+![schematic](https://github.com/user-attachments/assets/d47604d0-bdd6-405c-b3ba-833ef7f3968a)
+
+
+Modified 28BYJ-48 Stepper from Unipolar to Bipolar.
+
+![28bjy-48 cut](https://github.com/user-attachments/assets/f8c99f6d-4b4d-490d-90dd-f0eab1576206)
+
+
+See stepper motor wiring order on schematic.
+
+
