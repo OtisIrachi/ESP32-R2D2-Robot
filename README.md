@@ -20,7 +20,8 @@ YouTube Video:  https://www.youtube.com/shorts/CUwUT40_uZA
 
 Modified 28BYJ-48 Stepper from Unipolar to Bipolar.
 
-![28bjy-48 cut](https://github.com/user-attachments/assets/f8c99f6d-4b4d-490d-90dd-f0eab1576206)
+![28bjy-48 cut](https://github.com/user-attachments/assets/99e91354-46ef-4642-9acc-ec05613d5742)
+
 
 
 See stepper motor wiring order on schematic.
