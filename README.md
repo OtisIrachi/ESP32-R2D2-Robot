@@ -10,13 +10,13 @@ Both Leg Motors are driven by N20 mini gear motors (Amazon) with an L298N Dual
 Motor Driver Module (Amazon) and the Dome rotates using a 28BYJ-48 Geared 
 Stepper Motor (Amazon) and a TMC2209 Stepper Motor Driver Stepstick (Amazon).
 
+A 7.4V 1300mA LiPo battery is used for power.
+
 # ******************************************************************
 # WiFi iPhone screen example:
 
 ![iPhone WiFi](https://github.com/user-attachments/assets/3e39ff1c-73ce-46de-83af-77a5930da8cc)
 
-
-A 7.4V 1300mA LiPo battery is used for power.
 
 # *******************************************************************
 YouTube Video:  https://www.youtube.com/shorts/CUwUT40_uZA
