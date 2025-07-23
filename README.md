@@ -15,8 +15,11 @@ A 7.4V 1300mA LiPo battery is used for power.
 Critical Libraries:
 
 <MD_MAX72xx.h>	https://github.com/mongoose-os-libs/md-max72xx/tree/master
+
 <Tone32.h>      https://github.com/lbernstone/Tone32
+
 <AccelStepper.h>  https://github.com/waspinator/AccelStepper
+
 <IRremoteESP8266.h>  https://github.com/crankyoldgit/IRremoteESP8266/tree/master
 
 # ******************************************************************
