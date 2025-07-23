@@ -22,22 +22,22 @@ Critical Libraries:
 
 <IRremoteESP8266.h>  https://github.com/crankyoldgit/IRremoteESP8266/tree/master
 
-# ******************************************************************
+# *********************************************************
 # WiFi iPhone screen example:
 
 ![iPhone WiFi](https://github.com/user-attachments/assets/3e39ff1c-73ce-46de-83af-77a5930da8cc)
 
 
-# *******************************************************************
+# *********************************************************
 YouTube Video:  https://www.youtube.com/shorts/CUwUT40_uZA
 
-# *******************************************************************
+# *********************************************************
 # Robot Schematic:
 
 ![schematic](https://github.com/user-attachments/assets/d01ee7aa-0c09-4023-ab8c-ede40e2cf35f)
 
 
-# *******************************************************************
+# *********************************************************
 # Modified 28BYJ-48 Stepper from Unipolar to Bipolar:
 
 ![28bjy-48 cut](https://github.com/user-attachments/assets/99e91354-46ef-4642-9acc-ec05613d5742)
@@ -45,7 +45,7 @@ YouTube Video:  https://www.youtube.com/shorts/CUwUT40_uZA
 
 See stepper motor wiring order on schematic.
 
-# *******************************************************************
+# *********************************************************
 # Using your own IR Remote:
 
 Use this setup to read and map your own IR Remote codes.
